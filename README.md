@@ -12,7 +12,7 @@ The logical animation particles generate radom
 was ready created but, custumized by me!
 
 # Animations
-This aplication have darkmode with local storage,
+This aplication have white-mode with local storage,
 
 responsive menu, buttons animations, graphic animate, skroll animation, typing animation
 
