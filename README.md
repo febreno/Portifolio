@@ -6,11 +6,12 @@ website developed in HTML5, CSS3, JavaScript.
 
 # Particles
 The logical animation particles generate radom
+
 was ready created but custumized by me
 
 # Animations
 This aplication have darkmode with local storage, 
-responsive menu, buttons animations, graphic animate
+responsive menu, buttons animations and graphic animate
 
 # More about
 See professional information about me, I will be 
